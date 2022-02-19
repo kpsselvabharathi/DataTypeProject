@@ -5,9 +5,9 @@ public class CompanyInfo {//parent class
 		// TODO Auto-generated method stub
 
 
-		byte cpyId=100;
-		short rent=20000;
-		int profit=30000000;
+		byte cpyId=30;
+		short rent=6000;
+		int profit=80000000;
 		long phoneNum=8675199923l;
 		float percentage=99.9875643f;
 		double e=98.123456789087656;
